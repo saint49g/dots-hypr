@@ -18,7 +18,7 @@ gsettings set org.gnome.desktop.interface gtk-theme Fantome
 ```
 ### set cursor theme: 
 ```
-hyprctl setcursor Nordzy-cursors
+hyprctl setcursor Nordzy-cursors 20
 gsettings set org.gnome.desktop.interface cursor-theme Nordzy-cursors
 ```
 ### set icon theme:
