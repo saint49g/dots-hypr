@@ -3,9 +3,6 @@
 ## wallpapers:
 https://ru.pinterest.com/pin/386183736800494133/
 
-## prompt:
-https://starship.rs/
-
 ## kitty theme: 
 catppuccin macchiato
 https://github.com/catppuccin/kitty/blob/main/themes/macchiato.conf
@@ -15,7 +12,7 @@ https://github.com/catppuccin/kitty/blob/main/themes/macchiato.conf
 pipewire-pulse waybar-hyprland-git pavucontrol pamixer 
 swaylock-effects ttf-jetbrains-mono-nerd ttf-jetbrains-mono 
 wofi swaybg ranger thunar gvfs kitty brightnessctl grim 
-slurp cava mpv imv
+slurp cava mpv imv starship
 ```
 ## GTK:
 ```
