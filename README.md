@@ -2,10 +2,7 @@
 
 ## Dependencies:
 ```
-pipewire-pulse waybar-hyprland-git pavucontrol pamixer 
-swaylock-effects ttf-jetbrains-mono-nerd ttf-jetbrains-mono 
-wofi swaybg ranger thunar gvfs kitty brightnessctl grim 
-slurp cava mpv imv starship
+pipewire-pulse waybar-hyprland-git pavucontrol pamixer swaylock-effects ttf-jetbrains-mono-nerd ttf-jetbrains-mono wofi swaybg ranger thunar gvfs kitty brightnessctl grim slurp cava mpv imv starship
 ```
 ## GTK:
 ```
