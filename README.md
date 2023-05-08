@@ -11,10 +11,13 @@ catppuccin macchiato
 https://github.com/catppuccin/kitty/blob/main/themes/macchiato.conf
 
 ## Dependencies:
-pipewire-pulse waybar-hyprland-git pavucontrol pamixer swaylock-effects ttf-jetbrains-mono-nerd ttf-jetbrains-mono wofi swaybg ranger thunar gvfs kitty brightnessctl grim slurp cava mpv imv 
+```
+pipewire-pulse waybar-hyprland-git pavucontrol pamixer swaylock-effects ttf-jetbrains-mono-nerd ttf-jetbrains-mono wofi swaybg ranger thunar gvfs kitty brightnessctl grim slurp cava mpv imv
+```
 ## GTK:
+```
 (Nordzy-cursors fantome-gtk Zafiro-Nord-Dark)
-
+```
 # after install:
 
 ### set gtk theme:
