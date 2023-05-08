@@ -16,7 +16,9 @@ pipewire-pulse waybar-hyprland-git pavucontrol pamixer swaylock-effects ttf-jetb
 ```
 ## GTK:
 ```
-(Nordzy-cursors fantome-gtk Zafiro-Nord-Dark)
+Nordzy-cursors 
+fantome-gtk 
+Zafiro-Nord-Dark
 ```
 # after install:
 
