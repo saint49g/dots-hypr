@@ -1,17 +1,30 @@
 # dots-hyprl
 
-wallpapers:
+# wallpapers:
 https://ru.pinterest.com/pin/386183736800494133/
 
-prompt:
+# prompt:
 https://starship.rs/
 
-kitty theme: 
+# kitty theme: 
 catppuccin macchiato
 https://github.com/catppuccin/kitty/blob/main/themes/macchiato.conf
 
-Dependencies:
-pipewire-pulse waybar-hyprland-git pavucontrol pamixer swaylock-effects ttf-jetbrains-mono-nerd ttf-jetbrains-mono wofi swaybg ranger thunar gvfs kitty brightnessctl grim slurp cava mpv imv
+# Dependencies:
+pipewire-pulse waybar-hyprland-git pavucontrol pamixer swaylock-effects ttf-jetbrains-mono-nerd ttf-jetbrains-mono wofi swaybg ranger thunar gvfs kitty brightnessctl grim slurp cava mpv imv 
+# GTK:
+(Nordzy-cursors fantome-gtk Zafiro-Nord-Dark)
+
+# after install:
+set gtk theme: 
+gsettings set org.gnome.desktop.interface gtk-theme Fantome
+
+set cursor theme: 
+hyprctl setcursor Nordzy-cursors
+gsettings set org.gnome.desktop.interface cursor-theme Nordzy-cursors
+
+set icon theme:
+gsettings set org.gnome.desktop.interface icon-theme Zafiro-Nord-Black
 
 ![hypr-rice1](https://user-images.githubusercontent.com/131678603/235306752-bddb848a-36a9-491c-b044-1265830c8988.png)
 ![hypr-rice2](https://user-images.githubusercontent.com/131678603/235306772-45230391-1a44-4caa-9009-766d0725026d.png)
